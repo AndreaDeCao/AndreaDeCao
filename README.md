@@ -1,15 +1,86 @@
-# 💫 About Me:
-🎓 I'm an Information Engineering student at the University of Trento<br>🚧 I'm currently exploring many new areas within the field of computer science.<br>💡 Coding, building things, and enjoying rides on my motorbike.<br>📍 Trento (TN)
+# Andrea De Cao
 
+**Information Engineering Student** @ University of Trento  
+Building full-stack applications, distributed systems, and IoT solutions with a focus on real-world architecture.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Andrea De Cao](https://www.linkedin.com/in/andrea-de-cao-86319423b)) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaDeCao&theme=monokai)
+## 🚀 Featured Projects
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreaDeCao&theme=monokai)
+### 🏔️ DoloMate — Full-Stack Hiking Platform
+A comprehensive web application for discovering, planning, and sharing hiking experiences in the Dolomites.
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaDeCao&theme=monokai&layout=compact)
+**What I built:**
+- REST API backend with authentication (JWT + OAuth2 Google/GitHub)
+- React/TypeScript frontend with interactive mapping
+- Secure user system with admin panel and content moderation
+- Real-time features: weather integration, activity notifications, social connections
+- Deployed on Render with MongoDB Atlas
+
+**Tech:** Node.js • Express • React • TypeScript • MongoDB • JWT • OAuth2 • Render
+
+**Links:** [Repository](https://github.com/AndreaDeCao/Ingegneria_del_software_18)
+
+---
+
+### 🚗 IoT Speed Monitoring System — Embedded & Web Integration
+A distributed IoT system combining gesture-controlled RC car, wireless communication, and real-time speed detection.
+
+**What I built:**
+- Complete system architecture: firmware for 3 different boards (Arduino Uno, Nano, ESP32)
+- Wireless nRF24L01 communication protocol implementation
+- Full-stack dashboard: Node.js backend with REST API + interactive web frontend
+- Real-time data visualization and historical logging
+- Deployed web dashboard on Render
+
+**Key features:** Gesture control (MPU6050), speed measurement (proximity sensors), LED feedback, data persistence  
+**Tech:** C/C++ • Arduino • ESP32 • Node.js • JavaScript • I2C/SPI protocols • RF24
+
+**Links:** [Repository](https://github.com/AndreaDeCao/IoT_project) • [Live Dashboard](https://iot-project-group-14.onrender.com/)
+
+---
+
+## 💻 Core Competencies
+
+**Backend & APIs**  
+Node.js • Express • RESTful API design • Authentication & authorization • Database design
+
+**Frontend**  
+React • TypeScript • Interactive maps • Responsive UI • Real-time updates
+
+**Embedded Systems & IoT**  
+C/C++ • Arduino ecosystem • Microcontroller programming • Sensor integration • Wireless protocols (nRF24, I2C, SPI)
+
+**Databases**  
+MongoDB • SQL databases • Data modeling • Cloud databases (MongoDB Atlas)
+
+**DevOps & Deployment**  
+Docker • Git workflow • Render hosting • CI/CD basics
+
+---
+
+## 🎓 Teaching & Mentoring
+
+**Software Architecture Instructor** — Advanced Training Program (2025-2026)  
+Teaching full-stack architecture principles, system design patterns, and real-world application development. Mentoring students on building scalable, maintainable systems.
+
+---
+
+## 🎯 What I'm Currently Exploring
+
+- Systems programming with C and POSIX threads
+- Advanced C++ concepts (OOP, memory management, standard library algorithms)
+- Building scalable distributed systems
+- Low-level network and communication protocols
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [Andrea De Cao](https://www.linkedin.com/in/andrea-de-cao-86319423b)
+- **GitHub:** [AndreaDeCao](https://github.com/AndreaDeCao)
+- **Location:** Trento, Italy 🇮🇹
+
+---
+
+*I'm passionate about building things from the ground up—whether it's a full-stack platform or an IoT system. Always learning, always building.*
