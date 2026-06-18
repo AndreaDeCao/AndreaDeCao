@@ -5,9 +5,9 @@ Building full-stack applications, distributed systems, and IoT solutions with a 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏔️ DoloMate — Full-Stack Hiking Platform
+### DoloMate — Full-Stack Hiking Platform
 A comprehensive web application for discovering, planning, and sharing hiking experiences in the Dolomites.
 
 **What I built:**
@@ -23,7 +23,7 @@ A comprehensive web application for discovering, planning, and sharing hiking ex
 
 ---
 
-### 🚗 IoT Speed Monitoring System — Embedded & Web Integration
+### IoT Speed Monitoring System — Embedded & Web Integration
 A distributed IoT system combining gesture-controlled RC car, wireless communication, and real-time speed detection.
 
 **What I built:**
@@ -40,7 +40,7 @@ A distributed IoT system combining gesture-controlled RC car, wireless communica
 
 ---
 
-## 💻 Core Competencies
+## Core Competencies
 
 **Backend & APIs**  
 Node.js • Express • RESTful API design • Authentication & authorization • Database design
@@ -59,14 +59,14 @@ Docker • Git workflow • Render hosting • CI/CD basics
 
 ---
 
-## 🎓 Teaching & Mentoring
+## Teaching & Mentoring
 
 **Software Architecture Instructor** — Advanced Training Program (2025-2026)  
 Teaching full-stack architecture principles, system design patterns, and real-world application development. Mentoring students on building scalable, maintainable systems.
 
 ---
 
-## 🎯 What I'm Currently Exploring
+## What I'm Currently Exploring
 
 - Systems programming with C and POSIX threads
 - Advanced C++ concepts (OOP, memory management, standard library algorithms)
@@ -75,7 +75,7 @@ Teaching full-stack architecture principles, system design patterns, and real-wo
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **LinkedIn:** [Andrea De Cao](https://www.linkedin.com/in/andrea-de-cao-86319423b)
 - **GitHub:** [AndreaDeCao](https://github.com/AndreaDeCao)
