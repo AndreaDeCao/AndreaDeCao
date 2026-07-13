@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/University%20of%20Trento-Computer%20Engineering%20(ICE)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
+<a href="https://www.unitn.it/it"><img src="https://img.shields.io/badge/University%20of%20Trento-Computer%20Engineering%20(ICE)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Expected%20Graduation-2026-4C1D95?style=flat-square&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Trento%2C%20Italy-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white"/>
+<a href="https://www.comune.trento.it/"><img src="https://img.shields.io/badge/Location-Trento%2C%20Italy🇮🇹-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
