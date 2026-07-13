@@ -1,86 +1,287 @@
-# Andrea De Cao
+<div align="center">
 
-**Information Engineering Student** @ University of Trento  
-Building full-stack applications, distributed systems, and IoT solutions with a focus on real-world architecture.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Andrea%20De%20Cao&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20-%20IoT%20and%20Embedded%20Systems&descAlignY=58&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Backend+%26+Distributed+Systems;IoT+%26+Embedded+Systems+Developer;React+%2F+Node.js+%2F+MongoDB;Building+production-grade+software" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/University%20of%20Trento-Computer%20Engineering%20(ICE)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expected%20Graduation-2026-4C1D95?style=flat-square&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Trento%2C%20Italy-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/andrea-de-cao-86319423b"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:andrea.decao@hotmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/AndreaDeCao"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AndreaDeCao&style=flat-square&color=8b5cf6&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/AndreaDeCao?style=flat-square&color=7c3aed&label=Followers&logo=github"/>
+<img src="https://img.shields.io/github/stars/AndreaDeCao?style=flat-square&color=6d28d9&label=Stars"/>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```yaml
+name: "Andrea De Cao"
+role: "Full-Stack Software Developer | IoT & Embedded Systems"
+education: "B.Sc. Computer Engineering (ICE), University of Trento — Class of 2026"
+focus: ["Backend Engineering", "Full-Stack Development", "Software Architecture"]
+```
+
+I'm a third-year **Computer Engineering (ICE)** student at the **University of Trento**, building production-grade software across the stack — from **REST APIs and distributed backend systems** to **embedded firmware and IoT dashboards**. My engineering approach is grounded in clean architecture, test-driven development, and pragmatic, output-oriented problem solving.
+
+I've worked as a **Backend Developer** on database redesign and REST API development, contributed to **remote-control embedded applications** for an international team in Stockholm, and taught **Software Architecture** as an instructor in an advanced training program — an experience that sharpened both my technical depth and my ability to communicate complex systems clearly.
+
+**Open To:**
+- Curricular internships leading to a thesis (Software Engineering / Embedded Systems / Full-Stack)
+- Backend & distributed systems engineering roles
+- Open-source contributions in full-stack and systems software
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,typescript,javascript,bash" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,vite" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,render,vercel,vscode" />
+
+**Embedded / IoT**
+
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+---
+
+## Systems Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Backend & API Design** | REST API architecture, JWT/OAuth2 auth, CSRF & bot protection |
+| **Full-Stack Development** | React/TypeScript front ends with Node.js/Express services |
+| **IoT & Embedded Systems** | Arduino, ESP32, nRF24L01 wireless, sensor fusion (MPU6050) |
+| **Database Engineering** | MongoDB Atlas schema design, MySQL database redesign & migration |
+| **Software Architecture** | Layered architecture, design patterns, instructor-level depth |
+| **Testing & QA** | Jest automated test suites |
+
+</div>
 
 ---
 
 ## Featured Projects
 
-### DoloMate — Full-Stack Hiking Platform
-A comprehensive web application for discovering, planning, and sharing hiking experiences in the Dolomites.
+<details>
+<summary><b>DoloMate — Full-Stack Hiking & Trekking Platform</b></summary>
+<br/>
 
-**What I built:**
-- REST API backend with authentication (JWT + OAuth2 Google/GitHub)
-- React/TypeScript frontend with interactive mapping
-- Secure user system with admin panel and content moderation
-- Real-time features: weather integration, activity notifications, social connections
-- Deployed on Render with MongoDB Atlas
+A full-stack hiking and trekking web application enabling trek discovery, ratings, hiking diaries with GPX parsing, and social features, built for the Software Engineering course at the University of Trento.
 
-**Tech:** Node.js • Express • React • TypeScript • MongoDB • JWT • OAuth2 • Render
+| | |
+|---|---|
+| **Stack** | React, TypeScript, Node.js, Express, MongoDB Atlas |
+| **Scale** | 46 automated Jest test cases, multi-role admin panel |
+| **Performance** | Optimistic UI updates, skeleton loaders, Cloudinary-based media delivery |
+| **Security** | JWT + OAuth2 authentication, CSRF & bot protection, GDPR-aligned cookie handling |
+| **Impact** | Trek ratings, hiking diary with GPX parsing, activity management, friendships |
+| **Repository** | [github.com/AndreaDeCao/DoloMate](https://github.com/AndreaDeCao) |
 
-**Links:** [Repository](https://github.com/AndreaDeCao/Ingegneria_del_software_18)
+DoloMate combines authentication, social features, and geospatial data (GPX parsing) into a cohesive hiking companion app. Key engineering work included resolving complex Git merge conflicts across parallel feature branches, migrating avatar storage from base64-in-MongoDB to Cloudinary URLs for performance, and debugging a subtle 401 → retry loop in the HTTP interceptor layer.
 
----
+</details>
 
-### IoT Speed Monitoring System — Embedded & Web Integration
-A distributed IoT system combining gesture-controlled RC car, wireless communication, and real-time speed detection.
+<details>
+<summary><b>IoT Speed Monitoring — Gesture-Controlled RC Car & Speed Camera System</b></summary>
+<br/>
 
-**What I built:**
-- Complete system architecture: firmware for 3 different boards (Arduino Uno, Nano, ESP32)
-- Wireless nRF24L01 communication protocol implementation
-- Full-stack dashboard: Node.js backend with REST API + interactive web frontend
-- Real-time data visualization and historical logging
-- Deployed web dashboard on Render
+An IoT system combining a gesture-controlled RC car with a wireless speed-camera monitoring pipeline, built for the Embedded Software for IoT course.
 
-**Key features:** Gesture control (MPU6050), speed measurement (proximity sensors), LED feedback, data persistence  
-**Tech:** C/C++ • Arduino • ESP32 • Node.js • JavaScript • I2C/SPI protocols • RF24
+| | |
+|---|---|
+| **Stack** | Arduino Uno R4, Arduino Nano, ESP32, nRF24L01, MPU6050, Node.js |
+| **Scale** | Multi-device wireless mesh (gesture controller → RC car → speed camera) |
+| **Performance** | Real-time live dashboard deployed on Render |
+| **Security** | Wireless protocol handling via nRF24L01 radio modules |
+| **Impact** | Real-time speed detection and gesture-based vehicle control |
+| **Repository** | [github.com/AndreaDeCao/IoT-Speed-Monitoring](https://github.com/AndreaDeCao) |
 
-**Links:** [Repository](https://github.com/AndreaDeCao/IoT_project) • [Live Dashboard](https://iot-project-group-14.onrender.com/)
+As **Project Lead**, I owned the web server and live dashboard, and co-developed the RC car firmware — coordinating gesture input via MPU6050 IMU data, wireless nRF24L01 communication, and a Node.js dashboard for real-time visualization of vehicle speed data.
 
----
-
-## Core Competencies
-
-**Backend & APIs**  
-Node.js • Express • RESTful API design • Authentication & authorization • Database design
-
-**Frontend**  
-React • TypeScript • Interactive maps • Responsive UI • Real-time updates
-
-**Embedded Systems & IoT**  
-C/C++ • Arduino ecosystem • Microcontroller programming • Sensor integration • Wireless protocols (nRF24, I2C, SPI)
-
-**Databases**  
-MongoDB • SQL databases • Data modeling • Cloud databases (MongoDB Atlas)
-
-**DevOps & Deployment**  
-Docker • Git workflow • Render hosting • CI/CD basics
+</details>
 
 ---
 
-## Teaching & Mentoring
+## 💼 Experience
 
-**Software Architecture Instructor** — Advanced Training Program (2025-2026)  
-Teaching full-stack architecture principles, system design patterns, and real-world application development. Mentoring students on building scalable, maintainable systems.
+### Backend Developer — Bystorm & Co.
+`Contract`
 
----
+Contributed to backend systems engineering, including a full **database redesign** and development of a **REST API** layer supporting core application functionality.
 
-## What I'm Currently Exploring
+**Scope of Work:**
+- Redesigned relational database schema for improved data integrity and scalability
+- Designed and implemented REST API endpoints
+- Collaborated on backend architecture decisions
 
-- Systems programming with C and POSIX threads
-- Advanced C++ concepts (OOP, memory management, standard library algorithms)
-- Building scalable distributed systems
-- Low-level network and communication protocols
-
----
-
-## Get in Touch
-
-- **LinkedIn:** [Andrea De Cao](https://www.linkedin.com/in/andrea-de-cao-86319423b)
-- **GitHub:** [AndreaDeCao](https://github.com/AndreaDeCao)
-- **Location:** Trento, Italy 🇮🇹
+`Node.js` `REST API` `Database Design` `Backend Architecture`
 
 ---
 
-*I'm passionate about building things from the ground up—whether it's a full-stack platform or an IoT system. Always learning, always building.*
+### Embedded Software Developer — STORVIX AB (Stockholm)
+`Internship`
+
+Contributed to a **remote control application** as part of an international engineering team based in Stockholm, Sweden.
+
+**Scope of Work:**
+- Developed remote-control application functionality
+- Collaborated with an international, distributed engineering team
+- Worked across embedded and application-layer software
+
+`Embedded Systems` `Remote Control Systems` `Cross-Team Collaboration`
+
+---
+
+### Software Architecture Instructor — Rovereto
+`Contract - 2026`
+
+Taught **Software Architecture** concepts as part of an advanced professional training program, translating architectural principles into practical, applied instruction.
+
+**Scope of Work:**
+- Designed and delivered course content on software architecture principles
+- Mentored participants through applied architecture exercises
+- Bridged academic theory with industry-relevant practice
+
+`Software Architecture` `Technical Instruction` `Mentorship`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| **Project Lead** | DoloMate & IoT Speed Monitoring |
+| **46 Automated Test Cases** | Delivered comprehensive Jest test suite for DoloMate authentication & core flows |
+| **Instructor Role** | Selected to teach Software Architecture |
+| **Cross-Border Engineering** | Contributed to an international team in Lund |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**Cisco**
+
+<img src="https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AndreaDeCao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaDeCao&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaDeCao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AndreaDeCao&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreaDeCao&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AndreaDeCao/AndreaDeCao/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced software architecture patterns
+  - Distributed systems design
+  - IoT protocol optimization
+
+Building:
+  - Full-stack applications with React & Node.js
+  - Embedded IoT systems with real-time dashboards
+
+Exploring:
+  - Cloud-native backend architectures
+  - Scalable REST API design patterns
+
+Open To:
+  - Curricular internships leading to a thesis
+  - Software engineering collaborations
+```
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+<a href="mailto:andrea.decao@hotmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/andrea-de-cao-86319423b"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AndreaDeCao"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+_"Engineering is the art of turning constraints into elegant solutions."_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
