@@ -40,12 +40,12 @@ focus: ["Backend Engineering", "Full-Stack Development", "Software Architecture"
 
 I'm a third-year **Computer Engineering (ICE)** student at the **University of Trento**, building production-grade software across the stack — from **REST APIs and distributed backend systems** to **embedded firmware and IoT dashboards**. My engineering approach is grounded in clean architecture, test-driven development, and pragmatic, output-oriented problem solving.
 
-I've worked as a **Backend Developer** on database redesign and REST API development, contributed to **remote-control embedded applications** for an international team in Stockholm, and taught **Software Architecture** as an instructor in an advanced training program — an experience that sharpened both my technical depth and my ability to communicate complex systems clearly.
+I've worked as a **Backend Developer** on database redesign and REST API development, contributed to **remote-control embedded applications** for an international team in Lund, and worked as a **paid Software Architecture professor** at ITS Rovereto — an experience that sharpened both my technical depth and my ability to communicate complex systems clearly.
 
 **Open To:**
-- Curricular internships leading to a thesis (Software Engineering / Embedded Systems / Full-Stack)
-- Backend & distributed systems engineering roles
-- Open-source contributions in full-stack and systems software
+* Curricular internships leading to a thesis (Software Engineering / Full-Stack)
+* Backend & distributed systems engineering roles
+* Open-source contributions in full-stack and systems software
 
 ---
 
@@ -77,13 +77,13 @@ I've worked as a **Backend Developer** on database redesign and REST API develop
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
+| Domain | Details |
+|---|---|
 | **Backend & API Design** | REST API architecture, JWT/OAuth2 auth, CSRF & bot protection |
 | **Full-Stack Development** | React/TypeScript front ends with Node.js/Express services |
 | **IoT & Embedded Systems** | Arduino, ESP32, nRF24L01 wireless, sensor fusion (MPU6050) |
 | **Database Engineering** | MongoDB Atlas schema design, MySQL database redesign & migration |
-| **Software Architecture** | Layered architecture, design patterns, instructor-level depth |
+| **Software Architecture** | Layered architecture, design patterns, professor-level depth |
 | **Testing & QA** | Jest automated test suites |
 
 </div>
@@ -140,37 +140,37 @@ As **Project Lead**, I owned the web server and live dashboard, and co-developed
 Contributed to backend systems engineering, including a full **database redesign** and development of a **REST API** layer supporting core application functionality.
 
 **Scope of Work:**
-- Redesigned relational database schema for improved data integrity and scalability
-- Designed and implemented REST API endpoints
-- Collaborated on backend architecture decisions
+* Redesigned relational database schema for improved data integrity and scalability
+* Designed and implemented REST API endpoints
+* Collaborated on backend architecture decisions
 
 `Node.js` `REST API` `Database Design` `Backend Architecture`
 
 ---
 
-### Embedded Software Developer — STORVIX AB (Stockholm)
+### Embedded Software Developer — STORVIX AB (Lund)
 `Internship`
 
-Contributed to a **remote control application** as part of an international engineering team based in Stockholm, Sweden.
+Contributed to a **remote control application** as part of an international engineering team based in Lund, Sweden.
 
 **Scope of Work:**
-- Developed remote-control application functionality
-- Collaborated with an international, distributed engineering team
-- Worked across embedded and application-layer software
+* Developed remote-control application functionality
+* Collaborated with an international, distributed engineering team
+* Worked across embedded and application-layer software
 
 `Embedded Systems` `Remote Control Systems` `Cross-Team Collaboration`
 
 ---
 
-### Software Architecture Instructor — Rovereto
-`Contract - 2026`
+### Software Architecture Professor — ITS Rovereto
+` Contract — 2026`
 
-Taught **Software Architecture** concepts as part of an advanced professional training program, translating architectural principles into practical, applied instruction.
+Hired as a **professor** to teach a **Software Architecture** course, translating architectural principles into practical, applied instruction for course participants.
 
 **Scope of Work:**
-- Designed and delivered course content on software architecture principles
-- Mentored participants through applied architecture exercises
-- Bridged academic theory with industry-relevant practice
+* Designed and delivered full course content on software architecture principles
+* Mentored participants through applied architecture exercises
+* Bridged academic theory with industry-relevant practice
 
 `Software Architecture` `Technical Instruction` `Mentorship`
 
@@ -184,7 +184,7 @@ Taught **Software Architecture** concepts as part of an advanced professional tr
 |---|---|
 | **Project Lead** | DoloMate & IoT Speed Monitoring |
 | **46 Automated Test Cases** | Delivered comprehensive Jest test suite for DoloMate authentication & core flows |
-| **Instructor Role** | Selected to teach Software Architecture |
+| **Teaching Appointment** | Hired as Software Architecture professor at ITS Rovereto |
 | **Cross-Border Engineering** | Contributed to an international team in Lund |
 
 </div>
@@ -195,7 +195,7 @@ Taught **Software Architecture** concepts as part of an advanced professional tr
 
 **Cisco**
 
-<img src="https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<a href="https://www.credly.com/badges/7a53e565-1c5d-4b91-9987-306320402568"><img src="https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></a>
 
 ---
 
@@ -204,7 +204,7 @@ Taught **Software Architecture** concepts as part of an advanced professional tr
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AndreaDeCao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreaDeCao&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=AndreaDeCao&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaDeCao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
@@ -259,8 +259,9 @@ Exploring:
   - Scalable REST API design patterns
 
 Open To:
-  - Curricular internships leading to a thesis
-  - Software engineering collaborations
+  - Curricular internships leading to a thesis (Software Engineering / Full-Stack)
+  - Backend & distributed systems engineering roles
+  - Open-source contributions in full-stack and systems software
 ```
 
 ---
@@ -280,7 +281,7 @@ Open To:
 
 <div align="center">
 
-_"Engineering is the art of turning constraints into elegant solutions."_
+_"Engineering is the art of making something extremely challenging appear simple."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
