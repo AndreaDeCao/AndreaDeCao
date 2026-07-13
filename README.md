@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://andreadecao.github.io/ "><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/andrea-de-cao-86319423b"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:andrea.decao@hotmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/AndreaDeCao"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```yaml
 name: "Andrea De Cao"
@@ -49,7 +49,7 @@ I've worked as a **Backend Developer** on database redesign and REST API develop
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -132,7 +132,7 @@ As **Project Lead**, I owned the web server and live dashboard, and co-developed
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Backend Developer — Bystorm & Co.
 `Contract`
@@ -191,7 +191,7 @@ Hired as a **professor** to teach a **Software Architecture** course, translatin
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 **Cisco**
 
@@ -199,30 +199,17 @@ Hired as a **professor** to teach a **Software Architecture** course, translatin
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AndreaDeCao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=AndreaDeCao&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaDeCao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
-
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AndreaDeCao&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -232,7 +219,7 @@ Hired as a **professor** to teach a **Software Architecture** course, translatin
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -242,7 +229,7 @@ Hired as a **professor** to teach a **Software Architecture** course, translatin
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
@@ -266,14 +253,14 @@ Open To:
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
-<a href="mailto:andrea.decao@hotmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/andrea-de-cao-86319423b"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/AndreaDeCao"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://andreadecao.github.io/ "><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/andrea-de-cao-86319423b"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:andrea.decao@hotmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/AndreaDeCao"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
